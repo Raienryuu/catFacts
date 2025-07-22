@@ -1,0 +1,13 @@
+{"fact":"Florence Nightingale owned more than 60 cats in her lifetime.","length":61}
+{"fact":"In Ancient Egypt, when a person\u0027s house cat passed away, the owner would shave their eyebrows to reflect their grief.","length":117}
+{"fact":"Cats have \u0022nine lives\u0022 thanks to a flexible spine and powerful leg and back muscles","length":83}
+{"fact":"A cat sees about 6 times better than a human at night, and needs 1/6 the amount of of light that a human does - it has a layer of extra reflecting cells which absorb light.","length":172}
+{"fact":"Unlike other cats, lions have a tuft of hair at the end of their tails.","length":71}
+{"fact":"Cats have 32 muscles that control the outer ear (humans have only 6). A cat can independently rotate its ears 180 degrees.","length":122}
+{"fact":"In just seven years, a single pair of cats and their offspring could produce a staggering total of 420,000 kittens.","length":115}
+{"fact":"A 2007 Gallup poll revealed that both men and women were equally likely to own a cat.","length":85}
+{"fact":"A cat\u0027s hearing is much more sensitive than humans and dogs.","length":60}
+{"fact":"Milk can give some cats diarrhea.","length":33}
+{"fact":"The heaviest cat on record is Himmy, a Tabby from Queensland, Australia. He weighed nearly 47 pounds (21 kg). He died at the age of 10.","length":135}
+{"fact":"Cats have supersonic hearing","length":28}
+{"fact":"Cats that live together sometimes rub each others heads to show that they have no intention of fighting. Young cats do this more often, especially when they are excited.","length":169}
