@@ -41,3 +41,5 @@ app.MapCatFactsEndpoints();
 Console.WriteLine("Visit http://localhost:5212/scalar for generated openAPI request panel");
 
 app.Run();
+
+public partial class Program { }

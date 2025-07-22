@@ -13,6 +13,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <InternalsVisibleTo Include="../CatFacts.Tests/CatFacts.Tests.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\CatFacts.Contracts\CatFacts.Contracts.csproj" />
   </ItemGroup>
 
